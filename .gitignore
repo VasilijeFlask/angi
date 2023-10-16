@@ -1,0 +1,8 @@
+# This will ignore all files in the node_modules directory
+node_modules/
+
+# This will ignore any .log files
+*.log
+
+# Ignore .env file that might contain sensitive credentials
+.env

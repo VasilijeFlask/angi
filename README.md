@@ -1,0 +1,1 @@
+This project aims to create a replica of the website Angi using JavaScript. 
