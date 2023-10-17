@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.homepage-holder {
+    background-color: #F5F5F5;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+header .logo {
+    color: #30A7A3;
+    padding: 10px 0px 10px 0px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+header .login-signup .login {
+    background-color: white;
+    border: 1px solid #2E2E2E;
+    padding: 5px 10px 5px 10px;
+    margin-right: 10px;
+    font-weight: 700;
+    color:  #2E2E2E;
+}
+
+header .login-signup .signup {
+    background-color: white;
+    border: 1px solid #2E2E2E;
+    padding: 5px 10px 5px 10px;
+    margin-left: 10px;
+    font-weight: 700;
+    color:  #2E2E2E;
+
+
+}
