@@ -1,1 +1,1 @@
-This project aims to create a replica of the website Angi using JavaScript. 
+This project serves as a test for a homepage design.
